@@ -34,6 +34,18 @@ Part 2: Two measurable learning outcomes for that day’s class. I want you to 
 
 ## **Week 05**
 
+Part 1: Two ways you plan on using the information you read about in the future. 
+
+-   I plan on incorporating the strategies mentioned in the end of chapter 16. Offering ample feedback on initial drafts of assignments and less specific/time consuming feedback once the final draft is turned in.
+
+-   I plan on adding an assignment to Psy 202 in which each students makes up a test question  over a chapter. Then I (or TA) will review the questions they came up with and the best will receive extra credit and be compiled into a practice test. (I got this idea from chapter 19 in the book where it mentions students being asked to formulate their own problem from the information at hand)
+
+Part 2: Two measurable learning outcomes for that day’s class. I want you to imagine you are the professor for this grad seminar and think about the two most important learning outcomes you would want your students to obtain by the end of class that day.
+
+-   Describe what active learning techniques can be used in large classrooms.
+
+-   Discuss the pros and cons of the use of some technological tools, as well as the differences between high and low stakes assignments.
+
 ##### **Week 06**
 
 ##### **Week 07**
