@@ -40,11 +40,17 @@ Part 1: Two ways you plan on using the information you read about in the future.
 
 -   I plan on adding an assignment to Psy 202 in which each students makes up a test question  over a chapter. Then I (or TA) will review the questions they came up with and the best will receive extra credit and be compiled into a practice test. (I got this idea from chapter 19 in the book where it mentions students being asked to formulate their own problem from the information at hand)
 
+-   Beat the boot activity (statistics)
+
 Part 2: Two measurable learning outcomes for that day’s class. I want you to imagine you are the professor for this grad seminar and think about the two most important learning outcomes you would want your students to obtain by the end of class that day.
 
 -   Describe what active learning techniques can be used in large classrooms.
 
 -   Discuss the pros and cons of the use of some technological tools, as well as the differences between high and low stakes assignments.
+
+Anything that made me think differently today:
+
+When coming up with thoughtful assessment we have to discuss the content in-dept and engage with it in different ways, which is helpful. When it comes to grading, there is a hyper focus on the assessment part of class rather than the understanding and conceptualization of content
 
 ##### **Week 06**
 
