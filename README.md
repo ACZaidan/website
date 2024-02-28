@@ -40,7 +40,7 @@ Part 1: Two ways you plan on using the information you read about in the future.
 
 -   I plan on adding an assignment to Psy 202 in which each students makes up a test question  over a chapter. Then I (or TA) will review the questions they came up with and the best will receive extra credit and be compiled into a practice test. (I got this idea from chapter 19 in the book where it mentions students being asked to formulate their own problem from the information at hand)
 
--   Beat the boot activity (statistics)
+-   Beat the bot (stats)
 
 Part 2: Two measurable learning outcomes for that day’s class. I want you to imagine you are the professor for this grad seminar and think about the two most important learning outcomes you would want your students to obtain by the end of class that day.
 
@@ -52,7 +52,19 @@ Anything that made me think differently today:
 
 When coming up with thoughtful assessment we have to discuss the content in-dept and engage with it in different ways, which is helpful. When it comes to grading, there is a hyper focus on the assessment part of class rather than the understanding and conceptualization of content
 
-##### **Week 06**
+## **Week 06**
+
+Part 1: Two ways you plan on using the information you read about in the future. 
+
+-   I plan on making most of the points in a class associated with more deep thinking related activities, making those questions worth more in quizzes and tests
+
+-   I plan on incorporating activities directly related to feedback, specially extensive feedback, so students will see it as relevant and incorporate it more into future activities.
+
+Part 2: Two measurable learning outcomes for that day’s class. I want you to imagine you are the professor for this grad seminar and think about the two most important learning outcomes you would want your students to obtain by the end of class that day.
+
+-   Design assessments that fulfill good assessment practices and have appropriate grading if any
+
+-   Discuss the pros and cons of grades, and the different grading systems
 
 ##### **Week 07**
 
@@ -63,3 +75,21 @@ When coming up with thoughtful assessment we have to discuss the content in-dept
 ##### **Week 12**
 
 ##### **Week 13**
+
+**Broad Notes:**
+
+-   Impromptu for students to public speak
+
+-   If a student is talking too much give them a job (keep track of who is participating in class).
+
+-   Speaking tips: Don\`t put sentences down (only key words)
+
+-   Mention Protocol
+
+-   Dictionary definition, connotative(what it really means), Example
+
+-   Don't embarrass people in front of other- not abuse authority- be nice
+
+-   Since you would never pay employees in outdated currency (e.g., colonial coins), you should not grade students using past standards of achievement (Walvoord & Anderson, 1998)
+
+-   It is imperative to think carefully about what levels of knowledge and comprehension we want tests to measure, because 91 percent of college exam questions assess lower-level comprehension rather than more complex thinking skills (Walvoord & Anderson, 1998) - and counts for 75% of the grade - implement higher levels
