@@ -66,7 +66,19 @@ Part 2: Two measurable learning outcomes for that day’s class. I want you to 
 
 -   Discuss the pros and cons of grades, and the different grading systems
 
-##### **Week 07**
+## **Week 07**
+
+Part 1: Two ways you plan on using the information you read about in the future. 
+
+-   I plan on helping students that fail assignments gain a sense of control over their failures by reframing it. Asking them how they studied and guiding them in a better direction.
+
+-   I plan on making an assignment in Psy 202 asking students to pick a psychological question they want to answer in their personal life or in the world and give them feedback into what test they can use to find that out, have them collect data analyse and answer the question. That all with the goal of intrinsically motivating them to take the course.
+
+Part 2: Two measurable learning outcomes for that day’s class. I want you to imagine you are the professor for this grad seminar and think about the two most important learning outcomes you would want your students to obtain by the end of class that day.
+
+-   Students will be able to compare and contrast concepts related to motivation presented in the module. (Intrinsic vs Extrinsic; Intelligence attribution vs Effort; Controllable vs Incontrollable framing of failures)
+
+-   Students will be able to discuss strategies to make students feel like they belong in the institution, and the importance of having a growth mindset as an instructor
 
 ##### **Week 09**
 
@@ -93,3 +105,5 @@ Part 2: Two measurable learning outcomes for that day’s class. I want you to 
 -   Since you would never pay employees in outdated currency (e.g., colonial coins), you should not grade students using past standards of achievement (Walvoord & Anderson, 1998)
 
 -   It is imperative to think carefully about what levels of knowledge and comprehension we want tests to measure, because 91 percent of college exam questions assess lower-level comprehension rather than more complex thinking skills (Walvoord & Anderson, 1998) - and counts for 75% of the grade - implement higher levels
+
+-   Lifeline: Stats builds on top of each concept so if you didn\`t get it this far go to office hours, tutoring or any of the avaliable reseources, otherwise you will only get more lost from next class on
