@@ -80,7 +80,21 @@ Part 2: Two measurable learning outcomes for that day’s class. I want you to 
 
 -   Students will be able to discuss strategies to make students feel like they belong in the institution, and the importance of having a growth mindset as an instructor
 
-##### **Week 09**
+## **Week 09**
+
+Part 1: Two ways you plan on using the information you read about in the future. 
+
+-   I plan on having a detailed syllabus with my honest standards, and a predicted schedule for the course. As according to the readings it makes instructors be seen as more caring and competent, as well as serving as a informed consent form.
+
+-   I plan on going over the plagiarism materials when teaching a course that contains writing assignments, to make it clear to students what constitutes plagiarism
+
+-   I plan to write objective guidelines for myself in terms of when to offer opportunities to students to retake tests or re-do assignments
+
+Part 2: Two measurable learning outcomes for that day’s class. I want you to imagine you are the professor for this grad seminar and think about the two most important learning outcomes you would want your students to obtain by the end of class that day.
+
+-   Students will be able to describe factors that make students more likely to present misconduct and how to mitigate those factors (including plagiarism).
+
+-   Students will be able to discuss how the values of respect for students as individuals, equal consideration of all students, an obligation to prepare for teaching, and an obligation to participate in the governance and life of the institution need to be taken into consideration to make a decision in different scenarios.
 
 ##### **Week 10**
 
@@ -106,4 +120,10 @@ Part 2: Two measurable learning outcomes for that day’s class. I want you to 
 
 -   It is imperative to think carefully about what levels of knowledge and comprehension we want tests to measure, because 91 percent of college exam questions assess lower-level comprehension rather than more complex thinking skills (Walvoord & Anderson, 1998) - and counts for 75% of the grade - implement higher levels
 
--   Lifeline: Stats builds on top of each concept so if you didn\`t get it this far go to office hours, tutoring or any of the avaliable reseources, otherwise you will only get more lost from next class on
+-   Lifeline: Stats builds on top of each concept so if you didn\`t get it this far go to office hours, tutoring or any of the available reseources, otherwise you will only get more lost from next class on
+
+-   Openstax, Merlot, OER commons - Open education resources to get slides for class
+
+-   More structured assignments in the beginning
+
+-   Try to also be a statistics tutor, make it an assignment to show up and have a chat with me_or office hours if those times don't work
