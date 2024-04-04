@@ -96,7 +96,19 @@ Part 2: Two measurable learning outcomes for that day’s class. I want you to 
 
 -   Students will be able to discuss how the values of respect for students as individuals, equal consideration of all students, an obligation to prepare for teaching, and an obligation to participate in the governance and life of the institution need to be taken into consideration to make a decision in different scenarios.
 
-##### **Week 10**
+## **Week 10**
+
+Part 1: Two ways you plan on using the information you read about in the future. 
+
+-   I plan to make sure that all of my materials are ADA complaint
+
+-   I plan on having an activity early on that allows students to bond with their peers and create a sense of community
+
+Part 2: Two measurable learning outcomes for that day’s class. I want you to imagine you are the professor for this grad seminar and think about the two most important learning outcomes you would want your students to obtain by the end of class that day.
+
+-   Students will be able to discuss inclusive teaching and techniques to implement it
+
+-   Students will be able to compare and contrast between inclusive and non-inclusive materials and scenarios.
 
 ##### **Week 12**
 
@@ -127,3 +139,23 @@ Part 2: Two measurable learning outcomes for that day’s class. I want you to 
 -   More structured assignments in the beginning
 
 -   Try to also be a statistics tutor, make it an assignment to show up and have a chat with me_or office hours if those times don't work
+
+**Class 202 Structure**
+
+-   Do it all the lecture online and discuss biggest question before starting class (meta-evaluations)
+
+-   First thing in class low stakes quiz (20% total grade) - concepts
+
+-   4 tests. I drop grade (each worth 15% - 45% total + individual project or 20% each and 60% final) 1/3, 2/3, and 3/3, Final cumulative of the class - no concepts just problems
+
+-   10% quizzes in the middle
+
+-   10% Participation on class - submitted complete worksheet by the end of class
+
+-   If doing individual project 10 min in class in the first friday for students to work on it (submit their ideas and get feedback) 1%
+
+-   Every week submit worksheet with data collection .5%
+
+-   Lecture video to watch home (types of tests for each data structure) - what would you need to do activity 10 WEEK 1%
+
+-   10 % Report explaining question data collection and Results
