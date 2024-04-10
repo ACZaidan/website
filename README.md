@@ -110,6 +110,26 @@ Part 2: Two measurable learning outcomes for that day’s class. I want you to 
 
 -   Students will be able to compare and contrast between inclusive and non-inclusive materials and scenarios.
 
+## **Week 11**
+
+Job postings:
+
+[Mid-Senior People Scientist](https://www.linkedin.com/jobs/view/3845886329)
+
+[Human Factor Scientist (more entry level)](https://www.linkedin.com/jobs/view/3806388532)
+
+Part 1: Two ways you plan on using the information you read about in the future. 
+
+-   I plan to revisit my teaching statement and add more evidence-based statements and link my teaching phylosophy more with my research (diversity may be an important link given my area of research)
+
+-   I plan to revise my teaching statement through a backwards design lenses and provide more concrete examples
+
+Part 2: Two measurable learning outcomes for that day’s class. I want you to imagine you are the professor for this grad seminar and think about the two most important learning outcomes you would want your students to obtain by the end of class that day.
+
+-   Students will be able to list criteria involved in model teaching
+
+-   Students will be able to compare and contrast between good and bad teaching statements
+
 ##### **Week 12**
 
 ##### **Week 13**
@@ -159,3 +179,27 @@ Part 2: Two measurable learning outcomes for that day’s class. I want you to 
 -   Lecture video to watch home (types of tests for each data structure) - what would you need to do activity 10 WEEK 1%
 
 -   10 % Report explaining question data collection and Results
+
+-   Think pair share
+
+-   Maybe use Kahn Academy for part of the online content. (Wilson, 2013)
+
+-   Proof of working through Kahn Academy additionally (+.5% per week of content presented) = If you do it all you have 5% extra credit.
+
+**Universal design**
+
+-   Start with syllabus and course readings (inclusive - women/
+
+-   Diversity statement (if I make mistakes please come talk to me, I welcome discussions)
+
+-   Send email before class starts
+
+-   Put my pronouns there
+
+-   For examples lists from chat GBT
+
+**Medical Emergency**
+
+-   Send a student to get someone in charge UPD
+
+-   Don't touch someone with a seizure (protect surroundings)
