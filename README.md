@@ -160,7 +160,7 @@ Part 2: Two measurable learning outcomes for that day’s class. I want you to 
 
 -   Try to also be a statistics tutor, make it an assignment to show up and have a chat with me_or office hours if those times don't work
 
-**Class 202 Structure**
+**Class 202 Structure - Use whole numbers**
 
 -   Do it all the lecture online and discuss biggest question before starting class (meta-evaluations)
 
@@ -203,3 +203,9 @@ Part 2: Two measurable learning outcomes for that day’s class. I want you to 
 -   Send a student to get someone in charge UPD
 
 -   Don't touch someone with a seizure (protect surroundings)
+
+**Books/ Resources**
+
+[free statistics books behavioral sciences - Google Search](https://www.google.com/search?q=free+statistics+books+behavioral+sciences&oq=free+statistics+books+behavioral+sciences&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRifBTIHCAIQIRifBTIHCAMQIRifBTIHCAQQIRifBTIHCAUQIRifBTIHCAYQIRifBTIHCAcQIRifBTIHCAgQIRifBdIBCTEzMDI3ajBqMagCALACAA&sourceid=chrome&ie=UTF-8)
+
+[Hawkes](https://www.hawkeslearning.com/Statistics/beg3/BEG3.html)
