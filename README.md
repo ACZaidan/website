@@ -130,9 +130,33 @@ Part 2: Two measurable learning outcomes for that day’s class. I want you to 
 
 -   Students will be able to compare and contrast between good and bad teaching statements
 
-##### **Week 12**
+## **Week 13**
 
-##### **Week 13**
+Part 1: Two ways you plan on using the information you read about in the future. 
+
+-   I plan to remember to have fun while teaching and keep in mind that there are always going to be good and bad days
+
+-   I plan to use the teaching behavioral checklist and the model teaching criteria scale to check areas of improvement
+
+Part 2: Two measurable learning outcomes for that day’s class. I want you to imagine you are the professor for this grad seminar and think about the two most important learning outcomes you would want your students to obtain by the end of class that day.
+
+-   Students will be able to list improvements they can make based on the teaching behavioral checklist and the model teaching criteria scale
+
+-   Students will be able to discuss how to best utilize teaching evaluations
+
+## **Week 13**
+
+Part 1: Two ways you plan on using the information you read about in the future. 
+
+-   I plan to make the purpose of every activity and assignement very explicit.
+
+-   I plan to have a running formula sheet on my stats class in which every time we add a new formula (cover new content), we reflect about how far we came, in terms of all the things they already learned
+
+Part 2: Two measurable learning outcomes for that day’s class. I want you to imagine you are the professor for this grad seminar and think about the two most important learning outcomes you would want your students to obtain by the end of class that day.
+
+-   Students will be able to discuss misconceptions about online clasees
+
+-   Students will be able to compare and contast techniques to use online vs in person to promote learning.
 
 **Broad Notes:**
 
@@ -162,13 +186,29 @@ Part 2: Two measurable learning outcomes for that day’s class. I want you to 
 
 **Class 202 Structure - Use whole numbers**
 
+**Ongoing Formula sheet introduced in the first week, I will add to it and update it on blackboard each week. You can bring an annotated copy on test days**
+
+**First Class:**
+
+***Start with big world questions and relate it back to statistical test***
+
+***Explain the format of the class and the purpose of each assignment***
+
+*Tell them about the cummulative nature of this course, if you strat feeling like you are getting lost at any point go to our tutors or me. If you dion't understand one week you won't understand the next one*
+
+Mention the formula sheet and how we will carry it together
+
+***Have them pull up syllabusand discuss with the person sitting next to them how they will organize their routine to make sure they can complete all of the activities***
+
+***Basic algebra activity, basic algebra review***
+
 -   Do it all the lecture online and discuss biggest question before starting class (meta-evaluations)
 
 -   First thing in class low stakes quiz (20% total grade) - concepts
 
 -   4 tests. I drop grade (each worth 15% - 45% total + individual project or 20% each and 60% final) 1/3, 2/3, and 3/3, Final cumulative of the class - no concepts just problems
 
--   10% quizzes in the middle
+-   10% quizzes in the middle of vides
 
 -   10% Participation on class - submitted complete worksheet by the end of class
 
